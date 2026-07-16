@@ -23,7 +23,11 @@ The network was designed following the hierarchical model while ensuring redunda
 
 ## Network Topology
 
-![Topology](Network-Topology.png)
+### Floor Layout
+![Floor Layout](Topology/Floors.png)
+
+### Core Network (Routers & Switches)
+![Core Network](Topology/Routers-and-Switches.png)
 
 ## Files
 
